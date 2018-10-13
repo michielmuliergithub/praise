@@ -44,5 +44,6 @@ exclamation <- c(
   "yikes",
   "yippie",
   "yow",
-  "yowza"
+  "yowza",
+  "hihi
 )
